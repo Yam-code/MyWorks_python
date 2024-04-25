@@ -1,8 +1,8 @@
 # ChatGPT(LangChain)
 
-# 本レポートではChatGPTに加えてLangChainを用いることで、段階的な処理を行いながら回答
-# を生成するBotの作成を目指す。今回は最新のAI関連ニュースについての応答を生成するBotを題材にする。
-# 
+# ChatGPTに加えてLangChainを用いることで、段階的な処理を行いながら回答を生成するBotの作成を目指す。
+# 今回は最新のAI関連ニュースについての応答を生成するBotを題材にする。
+
 # 1. 決まった一つの処理を行うモデル
 # まず、AI専門ニュースサイト (https://aismiley.co.jp/ai-news_category/generative-ai/) から単一の質問に回答するBotを作成する。
 # 初めに、必要なライブラリをインストールする。
